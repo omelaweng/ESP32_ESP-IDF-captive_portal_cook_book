@@ -30,7 +30,7 @@
 
 และสามารถแก้หน้า root.html ได้ในไฟล์ root.html
 
-<img width="1470" alt="ภาพถ่ายหน้าจอ 2567-11-10 เวลา 14 58 40" src="https://github.com/user-attachments/assets/2439052b-3563-4f11-8319-7eaca96a863e">
+<img width="1470" alt="ภาพถ่ายหน้าจอ 2567-11-10 เวลา 15 20 26" src="https://github.com/user-attachments/assets/1b75086d-06c1-45dc-b86c-4af061422dda">
 
 เมื่อแก้ไขให้ทำการ build และ run โปรแกรม
 
